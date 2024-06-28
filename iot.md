@@ -40,7 +40,8 @@ https://github.com/huedo2102/huedo2102/assets/118194834/e572c118-08b6-406e-8983-
   
 **Kịch bản hoạt động:**
 
-![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/fdc9ac9e-7c8f-441f-9c90-99904af6be42)
+![313404645-fdc9ac9e-7c8f-441f-9c90-99904af6be42](https://github.com/huedo2102/huedo2102/assets/118194834/f48d9100-43fb-49f6-9962-a45093ca931b)
+
 
 - Kết nối nguồn điện cho hệ thống, ESP8266 thực hiện việc kết nối Internet cho hệ thống, Arduino hoạt động thực hiện việc điều khiển các thiết bị: servo cho cá ăn, độ sáng đèn led, hiển thị nhiệt độ nước và thời gian thực lên màn hình LCD và ứng dụng trên điện thoại di động.
 - Cho ăn bán tự động: người dùng chưa thiết lập lịch cho ăn, người dùng sẽ ấn nút cho cá ăn trên ứng dụng, tín hiệu truyền đến Firebase sau đó sẽ được ESP8266 lấy xuống và truyền cho Arduino thực hiện việc quay servo. Servo quay, nắp hộp thức ăn mở trong vài giây, sau đó servo sẽ quay lại để đóng nắp hộp.
@@ -50,18 +51,22 @@ https://github.com/huedo2102/huedo2102/assets/118194834/e572c118-08b6-406e-8983-
 - Kiểm tra nhiệt độ: cảm biến nhiệt độ sẽ cảm ứng nhiệt độ nước truyền tín hiệu qua Arduino, Arduino truyền tín hiệu qua ESP8266 đến Firebase và cập nhật lên ứng dụng.
 
 
-![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/c61d40fc-267a-4336-b635-ee8394f86085)
+![313404671-c61d40fc-267a-4336-b635-ee8394f86085](https://github.com/huedo2102/huedo2102/assets/118194834/014b09ed-4c15-43cd-a270-936649b3ad73)
+
 
 **Hình ảnh hệ thống:**
 
-![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/3e58b847-d270-400f-9eac-abb162baa43e)
+
+![313404679-3e58b847-d270-400f-9eac-abb162baa43e](https://github.com/huedo2102/huedo2102/assets/118194834/df44ce0e-d213-4561-a364-681b0a8ec655)
 
 
 **Giao diện ứng dụng điều khiển trên Smart phone:**
 
-![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/d1ae3d32-a503-415b-bdb0-e7d16cc791ac)
+![313404695-d1ae3d32-a503-415b-bdb0-e7d16cc791ac](https://github.com/huedo2102/huedo2102/assets/118194834/a44462c0-9498-40f9-96dc-469106bff3cb)
+
 
 **Firebase:**
 
-![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/fce30506-22d8-4857-8cb6-7b3c354646e2)
+![313404703-fce30506-22d8-4857-8cb6-7b3c354646e2](https://github.com/huedo2102/huedo2102/assets/118194834/708ef2a5-6e45-48b7-bb3a-1b7a3062f92a)
+
 
