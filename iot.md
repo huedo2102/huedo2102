@@ -8,7 +8,11 @@
 
 
 
-https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/5469b3d8-370e-44f1-a546-0dd3dcd13102
+
+
+https://github.com/huedo2102/huedo2102/assets/118194834/e572c118-08b6-406e-8983-93ab9b4a7521
+
+
 
 
 
@@ -22,9 +26,11 @@ https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/5469b3
 - Màn hình LCD 1602
 - Cảm biến nhiệt độ DS18B20
 
-![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/53ab29ee-49f0-405e-a9af-431d961b5eb8)
+![313404620-53ab29ee-49f0-405e-a9af-431d961b5eb8](https://github.com/huedo2102/huedo2102/assets/118194834/af4659b6-aef0-4773-8f6e-203114ce458e)
 
-![image](https://github.com/huedo2102/IoT-The-automatic-fish-tank/assets/118194834/6f92c0e0-d7a8-45c6-9230-9ee44bb14e59)
+
+![313405105-6f92c0e0-d7a8-45c6-9230-9ee44bb14e59](https://github.com/huedo2102/huedo2102/assets/118194834/6c0a0f37-6c9b-4539-af90-d540172d5a87)
+
 
 **Chức năng các khối:**
 - Cảm biến: có nhiệm vụ đọc giá trị của các cảm biến đưa vào khối điều khiển. Linh kiện của khối này có cảm biến nhiệt độ DS18B20.
