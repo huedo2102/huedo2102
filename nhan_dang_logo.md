@@ -19,3 +19,6 @@ Computer vision, using SIFT, Python program
 
 
 Nhận dạng được hình ảnh logo của 10 loại nước giải khát (CocaCola, Fanta, RedBull, Sprite, Sting, Number1, Dr.Thanh, Vfresh, Wake-up-247, Hổ vằn).
+
+
+Tải chương trình -> [https://github.com/huedo2102/huedo2102/blob/main/chuongtrinh.exe](https://github.com/huedo2102/huedo2102/blob/main/chuongtrinh.exe)
