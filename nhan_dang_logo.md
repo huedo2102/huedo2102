@@ -4,8 +4,6 @@ Computer vision, using SIFT, Python program
 ![310789589-19c2c010-a5ce-4670-a257-7d29b759ac0b](https://github.com/huedo2102/huedo2102/assets/118194834/496f91f8-8469-40ff-80e7-115bc53236f6)
 
 
-![310789640-7e96661d-acd5-42a4-ba68-d1405cdf3f36](https://github.com/huedo2102/huedo2102/assets/118194834/13c5da2d-b102-4d27-8f3d-512f9fbac775)
-
 
 **Dữ liệu thử nghiệm**: 
 
