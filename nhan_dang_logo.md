@@ -12,6 +12,10 @@ Computer vision, using SIFT, Python program
 ![image](https://github.com/huedo2102/huedo2102/assets/118194834/0262c17d-b405-401a-a451-ab3c5edd2e56)
 
 
+**Kết quả**: 
+
+![image](https://github.com/huedo2102/huedo2102/assets/118194834/338521ad-9f73-48f0-85fd-04f8570d9125)
+
 
 ![310789723-e02bcfda-7b50-4389-8e0d-593be6585a12](https://github.com/huedo2102/huedo2102/assets/118194834/b96f35fb-35a9-41a7-a616-4dc6d66e861a)
 
