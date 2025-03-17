@@ -1,5 +1,5 @@
 # 💫About Me :
-I am currently a final-year student at the Vietnam Maritime University, waiting to receive my graduation certificate. During my studies, I put in a lot of effort, resulting in a GPA of 3.38. I have knowledge of various programming technologies and have completed several projects during my academic journey. I hope to have the opportunity to work and further develop my programming skills in the near future.
+I have graduated from Vietnam Maritime University, majoring in Information Technology. Throughout my studies, I have made every effort with a GPA of 3.38. I have knowledge of some programming technologies and have completed several projects during my studies. I am eager to have the opportunity to work and develop my programming skills in the near future.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huedo212) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hu%E1%BA%BF-%C4%91%E1%BB%97-34b7b5313) 
