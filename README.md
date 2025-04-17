@@ -1,5 +1,5 @@
 # 💫About Me :
-I have graduated from Vietnam Maritime University, majoring in Information Technology. Throughout my studies, I have made every effort with a GPA of 3.38. I have knowledge of some programming technologies and have completed several projects during my studies. I am eager to have the opportunity to work and develop my programming skills in the near future.
+"I’m Hue, a curious and open-minded individual who is always eager to learn and explore new things. That natural curiosity is what led me to pursue a career in Information Technology. I enjoy solving problems, learning about new technologies, and applying my knowledge to create practical solutions. I’m a team player, but I also work well independently and am always looking for ways to grow both personally and professionally. I believe that continuous learning is the key to success in this ever-evolving field."
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huedo212) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hu%E1%BA%BF-%C4%91%E1%BB%97-34b7b5313) 
